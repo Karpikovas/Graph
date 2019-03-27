@@ -1,0 +1,5 @@
+﻿  Graph.cpp
+c:\users\user\desktop\универ\контрольные\ппи\граф\graph\graph\graph.h(21): warning C4838: преобразование из "int" в "BYTE" требует сужающего преобразования
+c:\users\user\desktop\универ\контрольные\ппи\граф\graph\graph\graph.h(21): warning C4305: инициализация: усечение из "int" в "BYTE"
+c:\users\user\desktop\универ\контрольные\ппи\граф\graph\graph\graph.h(21): warning C4309: инициализация: усечение константного значения
+  Graph.vcxproj -> C:\Users\user\Desktop\Универ\Контрольные\ППИ\Граф\Graph\Debug\Graph.exe
